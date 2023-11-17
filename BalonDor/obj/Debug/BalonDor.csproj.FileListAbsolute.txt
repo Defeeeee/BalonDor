@@ -1,0 +1,12 @@
+C:\Users\fdiaz\RiderProjects\BalonDor\BalonDor\bin\Debug\BalonDor.exe.config
+C:\Users\fdiaz\RiderProjects\BalonDor\BalonDor\bin\Debug\BalonDor.exe
+C:\Users\fdiaz\RiderProjects\BalonDor\BalonDor\bin\Debug\BalonDor.pdb
+C:\Users\fdiaz\RiderProjects\BalonDor\BalonDor\obj\Debug\BalonDor.csproj.AssemblyReference.cache
+C:\Users\fdiaz\RiderProjects\BalonDor\BalonDor\obj\Debug\BalonDor.csproj.SuggestedBindingRedirects.cache
+C:\Users\fdiaz\RiderProjects\BalonDor\BalonDor\obj\Debug\BalonDor.Properties.Resources.resources
+C:\Users\fdiaz\RiderProjects\BalonDor\BalonDor\obj\Debug\BalonDor.csproj.GenerateResource.cache
+C:\Users\fdiaz\RiderProjects\BalonDor\BalonDor\obj\Debug\BalonDor.csproj.CoreCompileInputs.cache
+C:\Users\fdiaz\RiderProjects\BalonDor\BalonDor\obj\Debug\BalonDor.exe
+C:\Users\fdiaz\RiderProjects\BalonDor\BalonDor\obj\Debug\BalonDor.pdb
+C:\Users\fdiaz\RiderProjects\BalonDor\BalonDor\obj\Debug\BalonDor.Form1.resources
+C:\Users\fdiaz\RiderProjects\BalonDor\BalonDor\obj\Debug\BalonDor.Form2.resources
