@@ -10,3 +10,15 @@ C:\Users\fdiaz\RiderProjects\BalonDor\BalonDor\obj\Debug\BalonDor.exe
 C:\Users\fdiaz\RiderProjects\BalonDor\BalonDor\obj\Debug\BalonDor.pdb
 C:\Users\fdiaz\RiderProjects\BalonDor\BalonDor\obj\Debug\BalonDor.Form1.resources
 C:\Users\fdiaz\RiderProjects\BalonDor\BalonDor\obj\Debug\BalonDor.Form2.resources
+\\Mac\Home\Documents\GitHub\BalonDor\BalonDor\bin\Debug\BalonDor.exe.config
+\\Mac\Home\Documents\GitHub\BalonDor\BalonDor\bin\Debug\BalonDor.exe
+\\Mac\Home\Documents\GitHub\BalonDor\BalonDor\bin\Debug\BalonDor.pdb
+\\Mac\Home\Documents\GitHub\BalonDor\BalonDor\obj\Debug\BalonDor.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\GitHub\BalonDor\BalonDor\obj\Debug\BalonDor.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Documents\GitHub\BalonDor\BalonDor\obj\Debug\BalonDor.Form1.resources
+\\Mac\Home\Documents\GitHub\BalonDor\BalonDor\obj\Debug\BalonDor.Form2.resources
+\\Mac\Home\Documents\GitHub\BalonDor\BalonDor\obj\Debug\BalonDor.Properties.Resources.resources
+\\Mac\Home\Documents\GitHub\BalonDor\BalonDor\obj\Debug\BalonDor.csproj.GenerateResource.cache
+\\Mac\Home\Documents\GitHub\BalonDor\BalonDor\obj\Debug\BalonDor.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\GitHub\BalonDor\BalonDor\obj\Debug\BalonDor.exe
+\\Mac\Home\Documents\GitHub\BalonDor\BalonDor\obj\Debug\BalonDor.pdb
